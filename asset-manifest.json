@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/pobo9/my-first-app/static/js/main.a20de9e7.js",
-    "static/js/888.7fa667b9.js": "/pobo9/my-first-app/static/js/888.7fa667b9.js",
-    "favicon.ico": "/pobo9/my-first-app/favicon.ico",
-    "index.html": "/pobo9/my-first-app/index.html",
-    "favicon-32.png": "/pobo9/my-first-app/favicon-32.png",
-    "favicon-16.png": "/pobo9/my-first-app/favicon-16.png",
-    "manifest.json": "/pobo9/my-first-app/manifest.json",
-    "serve.json": "/pobo9/my-first-app/serve.json",
-    "main.a20de9e7.js.map": "/pobo9/my-first-app/static/js/main.a20de9e7.js.map",
-    "888.7fa667b9.js.map": "/pobo9/my-first-app/static/js/888.7fa667b9.js.map"
+    "main.js": "/my-first-app/static/js/main.a20de9e7.js",
+    "static/js/888.7fa667b9.js": "/my-first-app/static/js/888.7fa667b9.js",
+    "favicon.ico": "/my-first-app/favicon.ico",
+    "index.html": "/my-first-app/index.html",
+    "favicon-32.png": "/my-first-app/favicon-32.png",
+    "favicon-16.png": "/my-first-app/favicon-16.png",
+    "manifest.json": "/my-first-app/manifest.json",
+    "serve.json": "/my-first-app/serve.json",
+    "main.a20de9e7.js.map": "/my-first-app/static/js/main.a20de9e7.js.map",
+    "888.7fa667b9.js.map": "/my-first-app/static/js/888.7fa667b9.js.map"
   },
   "entrypoints": [
     "static/js/888.7fa667b9.js",
