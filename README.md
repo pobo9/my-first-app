@@ -45,6 +45,7 @@ npx expo start --web
 * **React Navigation**
 * **AsyncStorage**（データ永続化）
 * **Recharts**（グラフ描画：分析画面）
+* **Gemini**   
 
 ## 6. インストール方法・使用方法
 
